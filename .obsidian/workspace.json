@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "147d99b32bd0e03b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d92c0740702f7ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf37786fe0a5d52b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa1961722a47f45f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c958ea3f9c58e8ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c7dd31deec01b22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "855e71acf2bf16e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Indoctronation",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d326a199c9993a6e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "655ff5a51aa81f08",
+    "type": "split",
+    "children": [
+      {
+        "id": "02264c03663e55f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d16730fd6d35e35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9260d2fde250e266",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47e838000ed03fdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d3d1e72fa9e49d32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introduction.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "855e71acf2bf16e3",
+  "lastOpenFiles": [
+    "LanguangeTool Integration.md",
+    "Introduction.md"
+  ]
+}
