@@ -32,7 +32,7 @@ The need to explain the evils of misogyny in the modern era is a testament to th
 
 Is it absolutely wrong? This is a question for philosophy. It's within of us apes to be competitive and to discriminate. Philosophers have argued for and against discrimination of different groups since the beginning of time.
 
-The idea of not discriminating based on biological sex is relatively new in the history of humanity. Essentially, we live in a society that says each sex is equal to the other. This has improved the lot of women in our society by a great deal. Globally, one can see examples of the horrors that sexism causes, in particular, the treatment of women in parts of the Arab world.
+The idea of not discriminating based on 
 
 
 **God's Dislike Of Smart People**
