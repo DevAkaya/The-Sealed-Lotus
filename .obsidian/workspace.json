@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.50260543823242
   },
   "right": {
     "id": "655ff5a51aa81f08",
@@ -137,7 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "855e71acf2bf16e3",
+  "active": "bf37786fe0a5d52b",
   "lastOpenFiles": [
     "LanguangeTool Integration.md",
     "Introduction.md"
