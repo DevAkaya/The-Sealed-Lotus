@@ -141,7 +141,7 @@ Do people not consider life as abundance within the ether, like that of water? I
 
 Mankind is only like that of residual fodder on the timeline of this distinguished but meaningless planet Earth. Indeed, if all of humanity were to gather and mentally envision the full grandness of the heavens like that of digital form; the planets that exceed the gains of sand on Earth, they would not come up with its like, even if they were benefactors of one another.
 
-The multitude of planets in our visible cosmos ascend to that of trillions of quadrillions of planets, and it shall indeed be more. If the heavens were to even bestow itself life as a one-in-a-trillion phenomenon, Verily it's bestowed itself quadrillions of life systems in the cosmos. And, among those quadrillions of life systems will you find billions of intelligent life forms.
+The multitude of planets in our visible cosmos ascend to that of trillions of quadrillions of planets, and it shall indeed be more. If the heavens were to even bestow itself life as a one-in-a-trillion phenomenon, Verily it's bestowed itself quadrillions of life systems in the cosmos. And, among those quadrillions of life systems, will you find billions of intelligent life forms.
 
 If the sentience of this universe directed itself to us greater apes, it would have propounded every insignificance to us, yet much of mankind remains arrogant and haughty to the majesty of the cosmic scale.
 
