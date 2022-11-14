@@ -32,7 +32,7 @@ Many are deep in error and that they show not any awareness of how lucky one mus
 
 **The Injudicious Misogyny** 
 
-The need to explain the evils of misogyny in the modern era is a testament to the human's natural predisposition to competitiveness and discrimination. Misogyny, a disease rampant within the cultural and religious enterprise; an idea to uphold the primate mindset and likes of the Bronze Age at bay. The evils of misogyny stem from it being a form of discrimination. Is it absolutely wrong? This indeed is a question for philosophy. Philosophers have conversed for and against discrimination of different groups since the beginning of time.
+The need to explain the evils of misogyny in the modern era is a testament to the human's natural predisposition to competitiveness and discrimination. Misogyny, a disease rampant within the cultural and religious enterprise; an idea to uphold the primitive mindset and likes of the Bronze Age at bay. The evils of misogyny stem from it being a form of discrimination. Is it absolutely wrong? This indeed is a question for philosophy. Philosophers have conversed for and against discrimination of different groups since the beginning of time.
 
 It's saddening the idea of not discriminating a sentient creature based on biological sex and  is relatively new in the history of humanity. Essentially, we live in a society that says each sex is equal to the other. This has improved the welfare for a lot of women in our society by a great deal. Globally, one can see examples of the horrors that sexism causes, in particular, the treatment of women in parts of the Arab world.
 
@@ -47,8 +47,7 @@ Indeed, A great iniquity is presented from such a large population. The lack of 
 
 Verily, if oneself discerns an idea of an eternal Hell, unending suffering; a place which according to Sunni Islam will be a place of fire puss and blood tortures devoid of dignity, indeed casts this abode as the sadist of beliefs. The viewpoint that many souls will perish and be chucked like worthless dirt into an abode means that oneself has to either relinquish the viewpoint that God wishes to save all beings or accept the viewpoint that God wants to save all, but cannot or will not complete this responsibility and rather satisfy his own desires in such a matter, or fail to act upon the matter indeed suggesting that he is not an omnipotent or omniscient deity.
 
-
-People who are still engrossed in such grotesque credence indeed consider the following. Although problematic to quantify human evilness, let us delegate an analogy and quantify the evil, with a common factor being murder count. Let us make use of these abominable human beings' quantity being murder.
+People who are still engrossed in such grotesque credence indeed, consider the following. Although problematic to quantify human evilness, let us delegate an analogy and quantify the evil, with a common factor being murder count. Let us make use of these abominable human beings' quantity being murder.
 
 	Jeffrey Dahmer - Serial Killer:  17 People (Own Hands)
 
@@ -127,16 +126,29 @@ God’s idea of reaching heaven is a universe that is centered around his worshi
 
 Narcissists with little emotion and aggressively belittle, devalue or destroy those who threaten their grandiose self-image. It says God many times explains and warns his wrath on his followers whenever they turn their attention away from his worship. Anyone who refuses to do so is threatened with the idea that God will brutally torture them and harm them in the land of sadism known as Hell to those he considers his enemies: all Hindus, Muslims, Jews, atheists, and anyone else who lives for a purpose other than inflating his ego, glorifying him many times a day.
 
+Narcissists also suffer from an alternating sense of superiority and insufficiency; an alternating distribution. Such people are manipulated by their places of worship and institutes through doctrines that cultivate and take advantage of their narcissism that each soul has in its prior proportions, like the doctrine of sin and disbelief which humiliates the ego, and the doctrine of salvation and belief which exalts it. 
+
+In terms of superiority, God so proclaims to the masses in his own transcendence, YET TO FINISH
 
 This was a reason for my becoming a liberal Muslim, Quranist and leaving mainstream Islam having little avenues to reconcile and set my sail to my personal path of spirituality and remain hopeful that god is not a narcissistic monster rather a creator of mercy and beauty who wouldn't damn a human being for using the brain given to him.
 
 Source Researched: 
 https://www.helpguide.org/articles/mental-disorders/narcissistic-personality-disorder.htm
 
+**The Abundance Of Life** (Prose)
 
+Do people not consider life as abundance within the ether, like that of water? Indeed, a person who doubts should strike similitude to that of a wandering illiterate soul devoid of communion with other life forms roaming the waters. He dips his bucket in the vast oceans, to find it return to him devoid. He states to himself, "Indeed, there is nothing whatever like unto me within the heavens and the earth" Did he not consider the vastness and size of the 5 basins that exceeds one's faculties? 
+
+Mankind is only like that of residual fodder on the timeline of this distinguished but meaningless planet Earth. Indeed, if all of humanity were to gather and mentally envision the full grandness of the heavens like that of digital form; the planets that exceed the gains of sand on Earth, they would not come up with its like, even if they were benefactors of one another.
+
+The multitude of planets in our visible cosmos ascend to that of trillions of quadrillions of planets, and it shall indeed be more. If the heavens were to even bestow itself life as a one-in-a-trillion phenomenon, Verily it's bestowed itself quadrillions of life systems in the cosmos. And, among those quadrillions of life systems will you find billions of intelligent life forms.
+
+If the sentience of this universe directed itself to us greater apes, it would have propounded every insignificance to us, yet much of mankind remains arrogant and haughty to the majesty of the cosmic scale.
 
 **God's Dislike Of Smart People**
 
-I discern
+**The Majesty Of Aryavarta**
+
+
 
 
