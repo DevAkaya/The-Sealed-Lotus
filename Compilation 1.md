@@ -147,6 +147,18 @@ If the sentience of this universe directed itself to us greater apes, it would h
 
 **God's Dislike Of Smart People**
 
+**The Fortress Of Health**
+
+**The Despondency Of Looks**
+
+**The Deception Of Looks**
+
+**The Moral Slate Of Human Beings**
+
+**The Sexual Selection**
+
+**The Starving Artist**
+
 **The Majesty Of Aryavarta**
 
 
