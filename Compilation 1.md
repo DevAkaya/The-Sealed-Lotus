@@ -78,6 +78,8 @@ Infinite torture can only be a punishment for infinite evil, and I don't believe
 
 To view from a retrospect, this idea of god; reminiscent of a criminal kingpin, made an offer we can't refuse. Simply put, you either worship and glorify me following my rules or I subject you to suffering in this world and grotesque suffering and torture in hereafter resulting from a right I gave you in an arbitrary universe, blowing dust into the eyes of his believers of free when indeed biological determinism and environments are thee accomplices.
 
+Due to the nature of the concept, infinity whether your edict adobe pertains to hell because you're a murderous psycho from the streets of Wisconsin or a loving human who chose to deny the faith or someone who simply fell in love with someone of the same sex due to temperament, the result (normalized similar to a 3D unit vector due to some faiths having up to 7 tells for types of crimes) is exactly the same; an eternal fire blood and pus whether your crime has a numerical value of 17 or 1 million. No matter what paradigm follows, the sentence is the same minus infinity how's that for fucking grotesque justice when those that preach this sadistic nonsense presume their right to lecture people on morality, mockery would quite frankly be the kindest response at the disposal of a critic for something like Hell.
+
 
 Quote Bank:
 
@@ -124,6 +126,7 @@ Indeed, it's very common a hypocrisy of many faiths, such that; Do they not see 
 God’s idea of reaching heaven is a universe that is centered around his worship, a universe meant to seize on the Day Of Reckoning/Day Of Judgement: Yet worship consists only that of flattery. Do such people think this cosmos and sea of multiverses or this potentially infinite fractal existence, revolves around our mote of dust and the opinion of us hairless greater apes? 
 
 Narcissists with little emotion and aggressively belittle, devalue or destroy those who threaten their grandiose self-image. It says God many times explains and warns his wrath on his followers whenever they turn their attention away from his worship. Anyone who refuses to do so is threatened with the idea that God will brutally torture them and harm them in the land of sadism known as Hell to those he considers his enemies: all Hindus, Muslims, Jews, atheists, and anyone else who lives for a purpose other than inflating his ego, glorifying him many times a day.
+
 
 This was a reason for my becoming a liberal Muslim, Quranist and leaving mainstream Islam having little avenues to reconcile and set my sail to my personal path of spirituality and remain hopeful that god is not a narcissistic monster rather a creator of mercy and beauty who wouldn't damn a human being for using the brain given to him.
 
