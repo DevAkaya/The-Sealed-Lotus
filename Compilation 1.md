@@ -30,6 +30,8 @@ This not only extends onto a dilemma for a theist concept of god, but also a key
 
 Many are deep in error and that they show not any awareness of how lucky one must be to succeed at anything in life, no matter how hard and diligent one works. Indeed, one must be lucky for the basic privilege of being _able to work_. One must be lucky to be of sane mind, to not have the likes of ataxia, or to not have been burdened by the evils of other human beings.
 
+
+
 **The Injudicious Misogyny** 
 
 The need to explain the evils of misogyny in the modern era is a testament to the human's natural predisposition to competitiveness and discrimination. Misogyny, a disease rampant within the cultural and religious enterprise; an idea to uphold the primitive mindset and likes of the Bronze Age at bay. The evils of misogyny stem from it being a form of discrimination. Is it absolutely wrong? This indeed is a question for philosophy. Philosophers have conversed for and against discrimination of different groups since the beginning of time.
@@ -79,6 +81,8 @@ To view from a retrospect, this idea of god; reminiscent of a criminal kingpin, 
 
 Due to the nature of the concept, infinity whether your edict adobe pertains to hell because you're a murderous psycho from the streets of Wisconsin or a loving human who chose to deny the faith or someone who simply fell in love with someone of the same sex due to temperament, the result (normalized similar to a 3D unit vector due to some faiths having up to 7 tells for types of crimes) is exactly the same; an eternal fire blood and pus whether your crime has a numerical value of 17 or 1 million. No matter what paradigm follows, the sentence is the same minus infinity how's that for fucking grotesque justice when those that preach this sadistic nonsense presume their right to lecture people on morality, mockery would quite frankly be the kindest response at the disposal of a critic for something like Hell.
 
+
+![[spawn-hell.gif]]
 
 Quote Bank:
 
@@ -143,15 +147,19 @@ Mankind is only like that of residual fodder on the timeline of this distinguish
 
 The multitude of planets in our visible cosmos ascend to that of trillions of quadrillions of planets, and it shall indeed be more. If the heavens were to even bestow itself life as a one-in-a-trillion phenomenon, Verily it's bestowed itself quadrillions of life systems in the cosmos. And, among those quadrillions of life systems, will you find billions of intelligent life forms.
 
-If the sentience of this universe directed itself to us greater apes, it would have propounded every insignificance to us, yet much of mankind remains arrogant and haughty to the majesty of the cosmic scale.
+If the sentience of this universe directed itself to us greater apes, it would have propounded every insignificance to us, yet much of mankind remains arrogant to the majesty of the cosmic scale.
 
+![[Pasted image 20221115005622.png]]
 **God's Dislike Of Smart People**
 
 **The Fortress Of Health**
 
 **The Despondency Of Looks**
 
-**The Deception Of Looks**
+TO DO: the first thing that we notice about themis their appearance.
+
+
+**The Sire, Genetics**
 
 **The Moral Slate Of Human Beings**
 
