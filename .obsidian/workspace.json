@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compilation 1.md",
+                "file": "The Infinite Regress's Edge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "305b859904c87d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "God's Dislike Of Smart People.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compilation 1.md",
+                "file": "The Infinite Regress's Edge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compilation 1.md",
+                "file": "The Infinite Regress's Edge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compilation 1.md"
+                "file": "The Infinite Regress's Edge.md"
               }
             }
           }
@@ -138,7 +150,9 @@
   },
   "active": "bf37786fe0a5d52b",
   "lastOpenFiles": [
-    "LanguangeTool Integration.md",
-    "Compilation 1.md"
+    "Compilation 1.md",
+    "God's Dislike Of Smart People.md",
+    "The Infinite Regress's Edge.md",
+    "LanguangeTool Integration.md"
   ]
 }
