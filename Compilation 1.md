@@ -20,6 +20,14 @@ Indeed, peace is the most important and blissful contribution we can make to the
 
 "The most important thing in life is to have inner peace" - Gayatri Shome
 
+Verily, peace is a concept that is multifaceted and extends beyond the mere absence of conflict or violence. It is a state of harmony and tranquility that allows individuals and communities to thrive and flourish. It is the foundation upon which relationships are built, innovations are created, and we work towards a better future for all.
+
+However, peace is often elusive and fragile, constantly threatened by those who seek to sow discord and unrest through their actions and ideologies. Therefore, it should be the duty of every one of us to strive towards creating a more peaceful world, through actions both grand and small. This can be achieved through diplomacy and dialogue, community service and activism, or simply through the choice to act with kindness and understanding in our daily interactions. We all have the power to promote and nurture peace.
+
+Let us be ambassadors of peace and do our part in creating a world that is more just, compassionate, and harmonious. For it is only through peace that we can truly flourish and reach our full potential as human beings.
+
+
+
 **The Sealed Serpent** 
 
 The most dangerous creatures among us and among mankind are fake companions and deceptive people, it's important you know that in the words of the motivational speaker Jim Rohn he states “you are the average of the five people you spend the most time with.” and so it's important to make sure these people don't affect your life. Such people are the ones who will pride upon your failure and be envious of your success. Remember though at the end of the day, real situations expose fake people, so close pay attention.
