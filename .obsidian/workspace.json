@@ -1,51 +1,48 @@
 {
   "main": {
-    "id": "147d99b32bd0e03b",
+    "id": "46ba980a4a51ab38",
     "type": "split",
     "children": [
       {
-        "id": "2d92c0740702f7ee",
+        "id": "0f8ef3d47f7e19bf",
         "type": "tabs",
         "children": [
           {
-            "id": "bf37786fe0a5d52b",
+            "id": "010d893238a34818",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compilation 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "305b859904c87d31",
+            "id": "ac0cad96bcf28b06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "God's Dislike Of Smart People.md",
+                "file": "The Dictatorial Substrate Of Prayer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fa1961722a47f45f",
+    "id": "a0abc6ea747f2be4",
     "type": "split",
     "children": [
       {
-        "id": "c958ea3f9c58e8ce",
+        "id": "9eb0a4651dc0e377",
         "type": "tabs",
         "children": [
           {
-            "id": "4c7dd31deec01b22",
+            "id": "b144f0c3b1d0c7e6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,12 +52,12 @@
             }
           },
           {
-            "id": "855e71acf2bf16e3",
+            "id": "f3412fc32381fda6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Indoctronation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,36 +65,28 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "d326a199c9993a6e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "655ff5a51aa81f08",
+    "id": "03d77a9c80017bfd",
     "type": "split",
     "children": [
       {
-        "id": "02264c03663e55f4",
+        "id": "0c44b0f8a2f75af7",
         "type": "tabs",
         "children": [
           {
-            "id": "9d16730fd6d35e35",
+            "id": "61cd674c9d7286df",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compilation 1.md",
+                "file": "The Dictatorial Substrate Of Prayer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,52 +96,36 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "9260d2fde250e266",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Compilation 1.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "47e838000ed03fdc",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "d3d1e72fa9e49d32",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Compilation 1.md"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
-  "active": "bf37786fe0a5d52b",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "ac0cad96bcf28b06",
   "lastOpenFiles": [
-    "The Infinite Regress's Edge.md",
-    "God's Dislike Of Smart People.md",
-    "Compilation 1.md",
-    "LanguangeTool Integration.md"
+    "Mindboard/Characters/DevAkaya.md",
+    "Mindboard/Star Systems/Stellar System.md",
+    "Mindboard/Plot/Speech Draft.md",
+    "Mindboard/Plot/Draft.md",
+    "Mindboard/Civilisations/Alterra/Genesis.md",
+    "Mindboard/Civilisations/Akaya/Prototype 2.md",
+    "Mindboard/Ideology/Philosophy Of The Universe.md",
+    "Mindboard/Plot/Destuction Of The Paradise System.md",
+    "Chapters/Chapter/Chapter 1.md",
+    "Mindboard/Main Canvas.canvas"
   ]
 }

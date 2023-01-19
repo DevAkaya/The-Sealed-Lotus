@@ -1,10 +1,8 @@
 {
-  "spellcheckDictionary": [
-    "Shome",
-    "GRASPD",
-    "emnpuzzled",
-    "Blaise",
-    "Aryavarta",
-    "unfalsifiable"
-  ]
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheck": true,
+  "communityPluginSortOrder": "release",
+  "promptDelete": false,
+  "showInlineTitle": true
 }
