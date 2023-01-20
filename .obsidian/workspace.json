@@ -11,8 +11,12 @@
             "id": "010d893238a34818",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Dictatorial Substrate Of Prayer.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Dictatorial Substrate Of Prayer.md",
+                "file": "().md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 225.5
   },
   "right": {
     "id": "03d77a9c80017bfd",
@@ -115,8 +118,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ac0cad96bcf28b06",
+  "active": "010d893238a34818",
   "lastOpenFiles": [
+    "().md",
+    "The Dictatorial Substrate Of Prayer.md",
     "Mindboard/Characters/DevAkaya.md",
     "Mindboard/Star Systems/Stellar System.md",
     "Mindboard/Plot/Speech Draft.md",
@@ -124,8 +129,6 @@
     "Mindboard/Civilisations/Alterra/Genesis.md",
     "Mindboard/Civilisations/Akaya/Prototype 2.md",
     "Mindboard/Ideology/Philosophy Of The Universe.md",
-    "Mindboard/Plot/Destuction Of The Paradise System.md",
-    "Chapters/Chapter/Chapter 1.md",
-    "Mindboard/Main Canvas.canvas"
+    "Mindboard/Plot/Destuction Of The Paradise System.md"
   ]
 }
