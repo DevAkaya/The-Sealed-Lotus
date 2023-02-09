@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "010d893238a34818",
+            "id": "d538c682b49f7c1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Dictatorial Substrate Of Prayer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac0cad96bcf28b06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "().md",
+                "file": "The Religous Law - My Encounter with Sharia.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "03d77a9c80017bfd",
@@ -89,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Dictatorial Substrate Of Prayer.md",
+                "file": "The Religous Law - My Encounter with Sharia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +107,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "010d893238a34818",
+  "active": "d538c682b49f7c1c",
   "lastOpenFiles": [
+    "Pieces/The Dictatorial Substrate Of Prayer.md",
+    "Pieces/The Fatal Flaw Of Omniscience.md",
     "().md",
-    "The Dictatorial Substrate Of Prayer.md",
     "Mindboard/Characters/DevAkaya.md",
     "Mindboard/Star Systems/Stellar System.md",
     "Mindboard/Plot/Speech Draft.md",
     "Mindboard/Plot/Draft.md",
     "Mindboard/Civilisations/Alterra/Genesis.md",
     "Mindboard/Civilisations/Akaya/Prototype 2.md",
-    "Mindboard/Ideology/Philosophy Of The Universe.md",
-    "Mindboard/Plot/Destuction Of The Paradise System.md"
+    "Mindboard/Ideology/Philosophy Of The Universe.md"
   ]
 }
