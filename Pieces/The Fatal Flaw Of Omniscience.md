@@ -4,7 +4,7 @@ As I'd discerned in the previous writings, such as my view on [[The Infinite Reg
 > 
 > — Gene Roddenberry, Star Trek, The God Thing
 
-Attending to a friendly debate, within the Modern-Day-Debate discord server, did I come across a profound question. They (the delegated management) put forth the topic “is god compatible with free will?” that of which the context was pertaining to the christian deity. Why and how does such matters confer with omniscience? 
+Attending to a friendly debate, within the Modern-Day-Debate discord server, did I come across a profound question. They (the delegated management) put forth the topic “is god compatible with free will?” that of which the context was pertaining to the Christian deity. Why and how does such matters confer with omniscience? 
 
 
 

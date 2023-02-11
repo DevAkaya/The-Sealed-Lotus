@@ -36,3 +36,6 @@ It leaves for a multitude a hard empuzzlement
 <u><center>Strict Interpretation Of As-Salah From The Notable 
 Shaykh Ibn Uthaymeen</center></u>
 <iframe width="640" height="407" src="https://www.youtube.com/embed/h5bKd1FqZdI" title="The One Who Does Not Pray Is Kafir - Shaykh Ibn Uthaymeen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
+<u><center>Ruling on the person who doesn’t pray | Shaykh Saeed Raslan</center></u>
+<iframe width="640" height="407" src="https://www.youtube.com/embed/FCLVKwFf7ZE" title="The One Who Does Not Pray Is Kafir - Shaykh Ibn Uthaymeen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
+
