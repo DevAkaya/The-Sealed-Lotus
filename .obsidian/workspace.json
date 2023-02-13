@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pieces/The Dictatorial Substrate Of Prayer.md",
+                "file": "Assets/Scrolls/Compilation 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59c83fe198a4113f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pangs oF Indo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "834d5e1ab8484d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hell.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pieces/The Dictatorial Substrate Of Prayer.md",
+                "file": "Hell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +129,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d538c682b49f7c1c",
+  "active": "834d5e1ab8484d14",
   "lastOpenFiles": [
+    "Pangs oF Indo.md",
+    "Assets/Scrolls/Compilation 1.md",
+    "The Religous Law - My Encounter with Sharia.md",
+    "Pieces/The Dictatorial Substrate Of Prayer.md",
     "Pieces/The Fatal Flaw Of Omniscience.md",
     "Assets/Images/spawn-hell.gif",
     "Assets/Images/Pasted image 20230204041713.png",
     "Assets/Images/Pasted image 20221115005622.png",
     "Assets/Images/in-space-national-space-day.gif",
-    "Scrolls/The Infinite Regress's Edge.md",
-    "The Religous Law - My Encounter with Sharia.md",
-    "Pieces/The Dictatorial Substrate Of Prayer.md",
-    "Scrolls/The Majesty Of Bharatvarsha.md",
-    "Untitled.canvas"
+    "Scrolls/The Infinite Regress's Edge.md"
   ]
 }
