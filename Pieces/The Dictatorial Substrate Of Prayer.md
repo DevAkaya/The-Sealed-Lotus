@@ -20,11 +20,13 @@ Shaykh al-Islam Ibn Taymiyah formulated a book al-Tawassul wal-Wasīlah and ther
 
 
 
+
+
 > فَسُبْحَـٰنَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ 
 > 
 > So All Extolment be to Allah while you are in your evening hours and while you become (vigilant) in your morning hours [Surah Ar-Rum 30: 17](https://quran.com/en/ar-rum/17)
 
-Indeed, propounded to me exists such an inequity of logic. Such dilemmas presented from this is as clear as that of Sirius in the night sky. Did they (the apostles of Islam) not consider the spoken word (Quran) of their lord is an eternal word free of alteration from mankind? No, rather, they committed an injustice degrading their lord. Such an act. It's injudicious that such people believe their lord can be bargained from his messenger Muhammad. A biased distribution of wisdom is indeed presented.  
+Indeed, propounded to me exists such an inequity of logic. Such dilemmas presented from this is as clear as that of the blazing sun as it manifests itself. Did they (the apostles of Islam) not consider the spoken word (Quran) of their lord is an eternal word free of alteration from mankind? No, rather, they committed an injustice degrading their lord. Such an act. It's injudicious that such people believe their lord can be bargained from his messenger Muhammad. A biased distribution of wisdom is indeed presented.  
 
 
 It leaves for a multitude a hard empuzzlement 

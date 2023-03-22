@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/Scrolls/Compilation 1.md",
+                "file": "Assets/Compilations/Compilation 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pangs oF Indo.md",
+                "file": "Assets/Scrolls/Pangs Of Indoctranation.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hell.md",
+                "file": "Assets/Scrolls/Pangs Of Indoctranation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "124a5361819a8ae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pieces/Insight Of Hell's Gordian Knot.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 227.5
   },
   "right": {
     "id": "03d77a9c80017bfd",
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hell.md",
+                "file": "Pieces/Insight Of Hell's Gordian Knot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +141,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "834d5e1ab8484d14",
+  "active": "124a5361819a8ae2",
   "lastOpenFiles": [
-    "Pangs oF Indo.md",
-    "Assets/Scrolls/Compilation 1.md",
-    "The Religous Law - My Encounter with Sharia.md",
     "Pieces/The Dictatorial Substrate Of Prayer.md",
+    "Pieces/Insight Of Hell's Gordian Knot.md",
+    "Assets/Scrolls/Pangs Of Indoctranation.md",
+    "Assets/Scrolls/The Infinite Regress's Edge.md",
     "Pieces/The Fatal Flaw Of Omniscience.md",
+    "Assets/Scrolls/Gardens Of Piece.md",
+    "Assets/Scrolls/The Majesty Of Bharatvarsha.md",
+    "Pieces/God's Dislike Of Smart People.md",
+    "The Religous Law - My Encounter with Sharia.md",
+    "Assets/Compilations/Compilation 1.md",
     "Assets/Images/spawn-hell.gif",
     "Assets/Images/Pasted image 20230204041713.png",
     "Assets/Images/Pasted image 20221115005622.png",
-    "Assets/Images/in-space-national-space-day.gif",
-    "Scrolls/The Infinite Regress's Edge.md"
+    "Assets/Images/in-space-national-space-day.gif"
   ]
 }
